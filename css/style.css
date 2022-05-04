@@ -1,5 +1,6 @@
 body{
     background: #EAEFBD;
+    min-height:100vh;
 }
 .fa-solid{
   color:white;
