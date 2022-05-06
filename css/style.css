@@ -1,6 +1,10 @@
 body{
     background: #EAEFBD;
+    min-height:100vh;
 }
 .fa-solid{
   color:white;
 }
+/* 
+change background opacity 
+style="background-color: rgba(0,0,0, 0.5); */
