@@ -5,6 +5,14 @@ body{
 .fa-solid{
   color:white;
 }
+.img-thumbnail{
+  width:400px;
+  height:400px;
+}
+/* .third-img{
+  position:absolute;
+  top:1300px;
+} */
 /* 
 change background opacity 
 style="background-color: rgba(0,0,0, 0.5); */
