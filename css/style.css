@@ -29,13 +29,18 @@ li{
 
 .img1{
   background-image: 
-  url("https://www.pexels.com/photo/silhouette-of-people-standing-on-backstage-6749981/");
+  url("../IMG/pexels-vishnu-r-nair-1105666.jpg");
 }
 .img2{
   background-image: 
-  url("https://www.pexels.com/https://images.pexels.com/photos/2350327/pexels-photo-2350327.jpeg?cs=srgb&dl=pexels-wendy-wei-2350327.jpg&fm=jpg&w=640&h=427");
+  url("../IMG/nainoa-shizuru-NcdG9mK3PBY-unsplash.jpg");
 }
 label{
   font-family:'Koulen', cursive ;
   font-size: 25px;
+}
+/* event page css */
+.event-jumbo{
+  background-color: #eed7c5;
+  height:400px;
 }
