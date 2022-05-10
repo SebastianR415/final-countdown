@@ -15,9 +15,13 @@ li{
 .fa-brands{
   font-size:30px;
 }
-/* .image-center{
-  position: relative;
-} */
+.carousel-items{
+  height:800px;
+}
+.image-center{
+width: 60%;
+height:500px;
+}
 
 /* .image-date{
   display:block;
