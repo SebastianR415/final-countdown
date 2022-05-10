@@ -1,21 +1,29 @@
 /* font-family: 'Koulen', cursive;
-font-family: 'Open Sans', sans-serif; */
+
+font-family: 'Source Sans Pro', sans-serif; */
+
 h1, h2{
   font-family: 'Koulen', cursive;
 }
 p{
-  font-family: 'Open Sans', sans-serif;
-}
-.nav{
-  height:200px;
+
+  font-family: 'Source Sans Pro', sans-serif;
 }
 li{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 .fa-brands{
   font-size:30px;
 }
+/* .image-center{
+  position: relative;
+} */
 
+/* .image-date{
+  display:block;
+  width:70%;
+  margin:auto;
+} */
 .img1, .img2 {
   min-height: 100vh;
   background-attachment: fixed;
@@ -37,7 +45,7 @@ label{
   font-size: 25px;
 }
 /* event page css */
-.event-jumbo{
+/* .event-jumbo{
   background-color: #eed7c5;
   height:500px;
-}
+} */
