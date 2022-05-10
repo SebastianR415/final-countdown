@@ -13,7 +13,7 @@ li{
   font-family: 'Source Sans Pro', sans-serif;
 }
 .fa-brands{
-  font-size:30px;
+  font-size:50px;
 }
 .carousel-items{
   height:800px;
@@ -22,12 +22,16 @@ li{
 width: 60%;
 height:500px;
 }
+/* div container for event 
+centering image vertically */
+.con{
+height: 800px;;
+}
+.image-event{
+width:80%;
+height:500px;
+}
 
-/* .image-date{
-  display:block;
-  width:70%;
-  margin:auto;
-} */
 .img1, .img2 {
   min-height: 100vh;
   background-attachment: fixed;
@@ -48,8 +52,3 @@ label{
   font-family:'Koulen', cursive ;
   font-size: 25px;
 }
-/* event page css */
-/* .event-jumbo{
-  background-color: #eed7c5;
-  height:500px;
-} */
